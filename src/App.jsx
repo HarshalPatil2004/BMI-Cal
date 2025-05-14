@@ -46,9 +46,9 @@ let calcBmi = (e) => {
 
   return (
     <div className="relative min-h-screen">
-      <Pattern />
-      <div className="relative z-10 flex items-center justify-center min-h-screen">
-        <div className="form-container h-max">
+      <Pattern/>
+      <div className="relative  flex items-center justify-center min-h-screen">
+        <div className="form-container">
           <div className="flex justify-center text-2xl font-bold">
             <h1>BMI Calculator</h1>
           </div>
