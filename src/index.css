@@ -1,5 +1,6 @@
-@import "tailwindcss";
-
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 /* From Uiverse.io by gharsh11032000 */ 
 .form-container {
